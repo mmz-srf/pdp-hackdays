@@ -37,9 +37,4 @@ python3 ./
 - t-ebucore-document-v14
 - t-ebucore-items-v14
 
-### Schema Registry
-
-- User: admin
-- Password: Pdp-Test1
-
 Note: kafka-console-consumer.sh runs without Avro schema deserialisation. For deserialising Avro messages use Avro deserialiser https://stackoverflow.com/questions/49927747/how-to-pass-parameters-for-a-specific-schema-registry-when-using-kafka-avro-cons
